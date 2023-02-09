@@ -3,6 +3,7 @@ import './App.css';
 import H from './H';
 import G from './G';
 import Prerit from './Prerit';
+import Utkarsh from './Utkarsh';
 
 function App() {
   return (
@@ -11,7 +12,10 @@ function App() {
       <H />
       <G />
       <Prerit />
-      
+      <Utkarsh
+
+      />
+
     </div>
   );
 }
